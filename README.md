@@ -1,5 +1,8 @@
 # mycv
 
-[Education](education.md)
+
+[Experience](experience.md)
 
 [Bibliography](bibliography.md)
+
+[Education](education.md)
